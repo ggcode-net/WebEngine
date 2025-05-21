@@ -29,4 +29,8 @@ $webengine['file_compatibility'] = array(
 		'name' => 'Custom (IGCN Based)',
 		'file' => 'custom.tables.php',
 	),
+	'ggcode' => array(
+		'name' => 'GGCode',
+		'file' => 'ggcode.tables.php',
+	),
 );
